@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-    
+
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
@@ -8,8 +8,7 @@
              xmlns:local ="clr-namespace:WaitInPlace"
              x:Class="WaitInPlace.MultipleStorePage">
 
-
-        <StackLayout BackgroundColor="Firebrick">
+    <StackLayout BackgroundColor="Firebrick">
         <Button Text="WAIT IN PLACE" BackgroundColor="Black" TextColor="White" HorizontalOptions="Fill" FontSize="Title" FontAttributes="Bold"  Margin="75,20" Clicked="main_page5"/>
         <Label x:Name="PageName" TextColor="White" FontSize="Title"  HorizontalTextAlignment="Center" Margin="20,0" FontAttributes="Bold"  />
         <Grid VerticalOptions="Start" Margin="0,20">

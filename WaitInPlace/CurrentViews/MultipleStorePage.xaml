@@ -147,7 +147,7 @@
                         <TimePicker x:Name="timePicker3" Time="10:00" Grid.Row="0" Grid.Column="1" Format="T" Margin="20,0" HorizontalOptions="Center"/>
                         <!--<Entry x:Name="Eta3" Placeholder="  00:00  AM" FontSize="Medium" BackgroundColor="LightGray" Margin="20,0" Grid.Row="0" Grid.Column="1"/>-->
                     </Grid>
-                    <Button Text="Join the line" Clicked="Join_Line_1" HorizontalOptions="Fill" VerticalOptions="Center" BorderColor="Black" BorderWidth="1" BackgroundColor="Green" FontSize="Small" TextColor="White" Margin="95,0"/>
+                    <Button Text="Join the line" Clicked="Join_Line_3" HorizontalOptions="Fill" VerticalOptions="Center" BorderColor="Black" BorderWidth="1" BackgroundColor="Green" FontSize="Small" TextColor="White" Margin="95,0"/>
                 </StackLayout>
             </StackLayout>
         </ScrollView>

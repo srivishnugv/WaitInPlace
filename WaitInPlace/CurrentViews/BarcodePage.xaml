@@ -6,6 +6,7 @@
              mc:Ignorable="d"
              xmlns:local ="clr-namespace:WaitInPlace"
              x:Class="WaitInPlace.BarcodePage">
+    
     <ContentPage.Content>
         <StackLayout x:Name="barcodeStack" HorizontalOptions="Center" BackgroundColor="White" Margin="10">
             <Label x:Name="cdLabel" HorizontalOptions="CenterAndExpand" FontSize="Title" TextColor="Black" FontAttributes="Bold"/>
